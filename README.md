@@ -22,5 +22,15 @@
 с помощью комманд в терминале получим доступ к репрозиторию:
 
 ```
-ahjajaja
+git clone https://github.com/rudanil4/Preparation_for_calculus.git<br>
+cd Ciphers_Ruden<br>
+git checkout dev<br>
 ```
+После этого необходимо создать токен и добавить его в репрозиторий с именем token.txt
+
+После чего достаточно выполнить 
+
+```
+python3 main.py<br>
+```
+

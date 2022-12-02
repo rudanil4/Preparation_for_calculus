@@ -22,9 +22,9 @@
 с помощью комманд в терминале получим доступ к репрозиторию:
 
 ```
-git clone https://github.com/rudanil4/Preparation_for_calculus.git<br>
-cd Preparation_for_calculus<br>
-git checkout dev<br>
+git clone https://github.com/rudanil4/Preparation_for_calculus.git
+cd Preparation_for_calculus
+git checkout dev
 pip install -r requirements.txt
 ```
 После этого необходимо создать токен и добавить его в репрозиторий с именем token.txt
